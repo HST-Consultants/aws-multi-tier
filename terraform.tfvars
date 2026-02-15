@@ -1,0 +1,5 @@
+project_name      = "fasttrack"
+ec2_key_name      = "fasttrack-key"
+ec2_instance_type = "t2.micro"
+db_username       = "adminuser"
+db_password       = "StrongPass123!"
